@@ -53,3 +53,5 @@ Sigue tu camino en inteligencia artificial comprendiendo los conceptos elemental
 
 - ¿Cómo profundizar en Machine Learning y Deep Learning? - [code015.ipynb](codes/code015.ipynb)
 - ¿Qué más aprender de la inteligencia artificial? - [code016.ipynb](codes/code016.ipynb)
+
+### Examen - [Examen.pdf](codes/Examen.pdf)
